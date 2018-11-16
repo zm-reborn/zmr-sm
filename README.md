@@ -1,5 +1,3 @@
-# **Zombie Master: Reborn | SourceMod files**
+# **Zombie Master: Reborn | SourceMod Gamedata**
 
-**NOTE: You have to disable gamedata updating in addons/sourcemod/configs/core.cfg, DisableAutoUpdate "yes"**
-
-This is because master.games.txt has to be overridden. Auto-update will reset and won't allow our offsets to be loaded from the file. (custom-folder didn't seem to work when testing.)
+These are the required files for SourceMod to work properly with ZMR.
