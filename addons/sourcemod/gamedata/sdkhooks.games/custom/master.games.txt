@@ -1,0 +1,7 @@
+"Game Master"
+{
+	"game.zmreborn.txt"
+	{
+		"game"		"zombie_master_reborn"
+	}
+}
